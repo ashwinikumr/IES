@@ -1,1 +1,2 @@
-class Remo
+public class Remo{
+}
