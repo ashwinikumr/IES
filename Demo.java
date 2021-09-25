@@ -4,4 +4,11 @@ public class Demo{
 	
 	System.out.println("Hiiiiiiiii");
 }
+
+	// CR-122
+	pubic void dPrcess(){
+	
+	//logic
+
+	}
 }
